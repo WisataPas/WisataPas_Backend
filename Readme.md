@@ -1,3 +1,13 @@
+Untuk akses yang sudah di-deploy bisa dilihat pada GitHub:  
+🔗 [https://github.com/jamaljml18/wisatapas-backend-vercel](https://github.com/jamaljml18/wisatapas-backend-vercel)  
+Dengan base endpoint:  
+🌐 `https://wisatapas-backend-vercel.vercel.app`
+
+Untuk akses model yang sudah di-deploy bisa dilihat pada HuggingFace:  
+🔗 [https://huggingface.co/spaces/mjamalm18/fastapi-wisatapas/tree/main](https://huggingface.co/spaces/mjamalm18/fastapi-wisatapas/tree/main)  
+Dengan base endpoint:  
+🌐 `https://mjamalm18-fastapi-wisatapas.hf.space`
+
 # 📘 Dokumentasi API WisataPass
 
 Dokumentasi ini mencakup tiga bagian utama:
@@ -59,3 +69,4 @@ Dokumentasi ini mencakup tiga bagian utama:
 ### 3. Text Generation (Deskripsi Wisata Otomatis)
 - **Method**: `POST`  
 - **Endpoint**: `https://mjamalm18-fastapi-wisatapas.hf.space/textgen`
+
