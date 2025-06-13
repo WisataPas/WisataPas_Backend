@@ -11,7 +11,7 @@ GitHub Repository:
 **Base Endpoint**:  
 `https://wisatapas-backend-vercel.vercel.app`
 
-![Backend Deployment](https://res.cloudinary.com/dtm30k9uc/image/upload/v1749531925/deployBe_gujhmd)
+![Backend Deployment](https://res.cloudinary.com/diihtbw9h/image/upload/v1/deployBe_gujhmd)
 
 ---
 
@@ -21,7 +21,7 @@ HuggingFace Space:
 **Base Endpoint**:  
 `https://mjamalm18-fastapi-wisatapas.hf.space`
 
-![ML Deployment](https://res.cloudinary.com/dtm30k9uc/image/upload/v1749531925/deployMl_wsucfn)
+![ML Deployment](https://res.cloudinary.com/diihtbw9h/image/upload/v1/deployMl_wsucfn)
 
 ---
 
