@@ -8,6 +8,8 @@ Untuk akses model yang sudah di-deploy bisa dilihat pada HuggingFace:
 Dengan base endpoint:  
 🌐 `https://mjamalm18-fastapi-wisatapas.hf.space`
 
+---
+
 # 📘 Dokumentasi API WisataPass
 
 Dokumentasi ini mencakup tiga bagian utama:
